@@ -1,0 +1,8 @@
+{
+  "name": "juunj-editorial-fashion-store",
+  "version": "3.1.0",
+  "description": "Editorial multi-brand fashion storefront with live catalogue adapter and RU/EN interface",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "dependencies": { "dotenv": "^16.4.7", "express": "^4.21.2" }
+}
